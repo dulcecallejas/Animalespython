@@ -1,4 +1,4 @@
-print ("Welcome to de animal game")
+print ("Welcome to the animal game")
 while True:
   print ("1 Perro")
   print ("2 Gato")
